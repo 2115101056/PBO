@@ -1,2 +1,2 @@
-# PBO_Greenfoot
+# PBO
 Pengumpulan project GreenFoot
