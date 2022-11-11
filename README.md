@@ -1,2 +1,2 @@
 # PBO
-Pengumpulan project GreenFoot
+JF Java Fundamentals Learner
